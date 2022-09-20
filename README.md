@@ -16,7 +16,7 @@ With this API users can use a machine learning model to predict the cost billed 
 
 ## API Reference
 
-#### Get Annual Medical Cost
+#### Get Medical Cost
 
 ```http
   GET /
