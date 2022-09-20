@@ -1,7 +1,7 @@
 
 # Insurance Medical Cost API
 
-With this API users can use a machine learning model to predict annual insurance medical cost of a person dependent on certain features. This model takes the input variables Age, Gender, BMI and Smoker. 
+With this API users can use a machine learning model to predict the cost billed by medicial insurance dependent on certain characteristics of a person. This model takes the input variables Age, Gender, BMI and Smoker. 
 
 
 ## Input Variables
